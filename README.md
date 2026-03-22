@@ -33,7 +33,7 @@ Used Generative AI to generate insights and business recommendations.
 * Improve pricing strategy
 * Run seasonal promotions
 
-## 📸 Dashboard Preview
+
 
 (Add screenshot here after upload)
  
