@@ -35,5 +35,5 @@ Used Generative AI to generate insights and business recommendations.
 
 
 
-(Add screenshot here after upload)
+
  
